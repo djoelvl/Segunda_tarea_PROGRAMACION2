@@ -1,0 +1,12 @@
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de comando.exe
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de comando.deps.json
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de comando.runtimeconfig.json
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de comando.runtimeconfig.dev.json
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de comando.dll
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de comando.pdb
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de comando.csprojAssemblyReference.cache
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de comando.AssemblyInfoInputs.cache
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de comando.AssemblyInfo.cs
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de comando.dll
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de comando.pdb
+C:\Users\JOEL\source\repos\PatronComando_C#\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de comando.genruntimeconfig.cache

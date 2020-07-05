@@ -1,0 +1,12 @@
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\bin\Debug\netcoreapp3.1\patron de estado.exe
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\bin\Debug\netcoreapp3.1\patron de estado.deps.json
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\bin\Debug\netcoreapp3.1\patron de estado.runtimeconfig.json
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\bin\Debug\netcoreapp3.1\patron de estado.runtimeconfig.dev.json
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\bin\Debug\netcoreapp3.1\patron de estado.dll
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\bin\Debug\netcoreapp3.1\patron de estado.pdb
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\obj\Debug\netcoreapp3.1\patron de estado.csprojAssemblyReference.cache
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\obj\Debug\netcoreapp3.1\patron de estado.AssemblyInfoInputs.cache
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\obj\Debug\netcoreapp3.1\patron de estado.AssemblyInfo.cs
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\obj\Debug\netcoreapp3.1\patron de estado.dll
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\obj\Debug\netcoreapp3.1\patron de estado.pdb
+C:\Users\JOEL\source\repos\patron de estado\patron de estado\obj\Debug\netcoreapp3.1\patron de estado.genruntimeconfig.cache

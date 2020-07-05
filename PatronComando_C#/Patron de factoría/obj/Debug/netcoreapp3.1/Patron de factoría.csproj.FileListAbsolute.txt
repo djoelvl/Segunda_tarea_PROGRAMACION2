@@ -1,0 +1,12 @@
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de factoría.csprojAssemblyReference.cache
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de factoría.AssemblyInfoInputs.cache
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de factoría.AssemblyInfo.cs
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de factoría.exe
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de factoría.deps.json
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de factoría.runtimeconfig.json
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de factoría.runtimeconfig.dev.json
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de factoría.dll
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\bin\Debug\netcoreapp3.1\Patron de factoría.pdb
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de factoría.dll
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de factoría.pdb
+C:\Users\JOEL\source\repos\Patron de factoría\Patron de factoría\obj\Debug\netcoreapp3.1\Patron de factoría.genruntimeconfig.cache
